@@ -1,5 +1,6 @@
 
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestClassTwo extends testngBase{
@@ -11,5 +12,6 @@ public class TestClassTwo extends testngBase{
     @Test()
     public void secondTestMethod() {
         System.out.println("Second test method from class 2");
+        Assert.assertTrue(false);
     }
 }
