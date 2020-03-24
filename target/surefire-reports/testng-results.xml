@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="232" started-at="2020-03-24T06:38:19Z" finished-at="2020-03-24T06:38:19Z">
+    <groups>
+    </groups>
+    <test name="First Test" duration-ms="28" started-at="2020-03-24T06:38:19Z" finished-at="2020-03-24T06:38:19Z">
+      <class name="TestClassTwo">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestClassTwo@3cb5cdba]" name="beforeTest" is-config="true" duration-ms="11" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestClassTwo@3cb5cdba]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="firstTestMethod()[pri:0, instance:TestClassTwo@3cb5cdba]" name="firstTestMethod" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestMethod -->
+        <test-method status="PASS" signature="secondTestMethod()[pri:0, instance:TestClassTwo@3cb5cdba]" name="secondTestMethod" duration-ms="1" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestClassTwo@3cb5cdba]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestClassTwo@3cb5cdba]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestClassTwo -->
+      <class name="TestClassOne">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestClassOne@48140564]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="firstTestMethod()[pri:0, instance:TestClassOne@48140564]" name="firstTestMethod" duration-ms="2" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestMethod -->
+        <test-method status="PASS" signature="secondTestMethod()[pri:0, instance:TestClassOne@48140564]" name="secondTestMethod" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestClassOne@48140564]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestClassOne -->
+    </test> <!-- First Test -->
+    <test name="Second Test" duration-ms="4" started-at="2020-03-24T06:38:19Z" finished-at="2020-03-24T06:38:19Z">
+      <class name="TestClassThree">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestClassThree@17c68925]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestClassThree@17c68925]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="firstTestMethod()[pri:0, instance:TestClassThree@17c68925]" name="firstTestMethod" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTestMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:TestClassThree@17c68925]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestClassThree@17c68925]" name="afterTest" is-config="true" duration-ms="1" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="secondTestMethod()[pri:0, instance:TestClassThree@17c68925]" name="secondTestMethod" duration-ms="0" started-at="2020-03-24T12:08:19Z" finished-at="2020-03-24T12:08:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTestMethod -->
+      </class> <!-- TestClassThree -->
+    </test> <!-- Second Test -->
+  </suite> <!-- Suite -->
+</testng-results>
